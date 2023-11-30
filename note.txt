@@ -1,0 +1,26 @@
+npm i
+
+
+{
+  "development": {
+    "username": "postgres",
+    "password": "180717",
+    "database": "tuan8DB",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "180717",
+    "database": "tuan8DB",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "180717",
+    "database": "tuan8DB",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
